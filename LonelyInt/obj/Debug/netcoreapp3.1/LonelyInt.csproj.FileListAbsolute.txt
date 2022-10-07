@@ -1,0 +1,14 @@
+C:\Users\hugo_\source\repos\LonelyInt\bin\Debug\netcoreapp3.1\LonelyInt.exe
+C:\Users\hugo_\source\repos\LonelyInt\bin\Debug\netcoreapp3.1\LonelyInt.deps.json
+C:\Users\hugo_\source\repos\LonelyInt\bin\Debug\netcoreapp3.1\LonelyInt.runtimeconfig.json
+C:\Users\hugo_\source\repos\LonelyInt\bin\Debug\netcoreapp3.1\LonelyInt.runtimeconfig.dev.json
+C:\Users\hugo_\source\repos\LonelyInt\bin\Debug\netcoreapp3.1\LonelyInt.dll
+C:\Users\hugo_\source\repos\LonelyInt\bin\Debug\netcoreapp3.1\LonelyInt.pdb
+C:\Users\hugo_\source\repos\LonelyInt\obj\Debug\netcoreapp3.1\LonelyInt.csproj.AssemblyReference.cache
+C:\Users\hugo_\source\repos\LonelyInt\obj\Debug\netcoreapp3.1\LonelyInt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugo_\source\repos\LonelyInt\obj\Debug\netcoreapp3.1\LonelyInt.AssemblyInfoInputs.cache
+C:\Users\hugo_\source\repos\LonelyInt\obj\Debug\netcoreapp3.1\LonelyInt.AssemblyInfo.cs
+C:\Users\hugo_\source\repos\LonelyInt\obj\Debug\netcoreapp3.1\LonelyInt.csproj.CoreCompileInputs.cache
+C:\Users\hugo_\source\repos\LonelyInt\obj\Debug\netcoreapp3.1\LonelyInt.dll
+C:\Users\hugo_\source\repos\LonelyInt\obj\Debug\netcoreapp3.1\LonelyInt.pdb
+C:\Users\hugo_\source\repos\LonelyInt\obj\Debug\netcoreapp3.1\LonelyInt.genruntimeconfig.cache
