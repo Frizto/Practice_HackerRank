@@ -1,0 +1,13 @@
+D:\Code Projects\C# Course\HackerRank\PlusMinus\bin\Debug\netcoreapp3.1\PlusMinus.exe
+D:\Code Projects\C# Course\HackerRank\PlusMinus\bin\Debug\netcoreapp3.1\PlusMinus.deps.json
+D:\Code Projects\C# Course\HackerRank\PlusMinus\bin\Debug\netcoreapp3.1\PlusMinus.runtimeconfig.json
+D:\Code Projects\C# Course\HackerRank\PlusMinus\bin\Debug\netcoreapp3.1\PlusMinus.runtimeconfig.dev.json
+D:\Code Projects\C# Course\HackerRank\PlusMinus\bin\Debug\netcoreapp3.1\PlusMinus.dll
+D:\Code Projects\C# Course\HackerRank\PlusMinus\bin\Debug\netcoreapp3.1\PlusMinus.pdb
+D:\Code Projects\C# Course\HackerRank\PlusMinus\obj\Debug\netcoreapp3.1\PlusMinus.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Projects\C# Course\HackerRank\PlusMinus\obj\Debug\netcoreapp3.1\PlusMinus.AssemblyInfoInputs.cache
+D:\Code Projects\C# Course\HackerRank\PlusMinus\obj\Debug\netcoreapp3.1\PlusMinus.AssemblyInfo.cs
+D:\Code Projects\C# Course\HackerRank\PlusMinus\obj\Debug\netcoreapp3.1\PlusMinus.csproj.CoreCompileInputs.cache
+D:\Code Projects\C# Course\HackerRank\PlusMinus\obj\Debug\netcoreapp3.1\PlusMinus.dll
+D:\Code Projects\C# Course\HackerRank\PlusMinus\obj\Debug\netcoreapp3.1\PlusMinus.pdb
+D:\Code Projects\C# Course\HackerRank\PlusMinus\obj\Debug\netcoreapp3.1\PlusMinus.genruntimeconfig.cache
