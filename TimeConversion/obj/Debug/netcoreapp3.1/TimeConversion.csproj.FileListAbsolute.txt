@@ -1,0 +1,14 @@
+D:\Code Projects\C# Course\HackerRank\TimeConversion\bin\Debug\netcoreapp3.1\TimeConversion.exe
+D:\Code Projects\C# Course\HackerRank\TimeConversion\bin\Debug\netcoreapp3.1\TimeConversion.deps.json
+D:\Code Projects\C# Course\HackerRank\TimeConversion\bin\Debug\netcoreapp3.1\TimeConversion.runtimeconfig.json
+D:\Code Projects\C# Course\HackerRank\TimeConversion\bin\Debug\netcoreapp3.1\TimeConversion.runtimeconfig.dev.json
+D:\Code Projects\C# Course\HackerRank\TimeConversion\bin\Debug\netcoreapp3.1\TimeConversion.dll
+D:\Code Projects\C# Course\HackerRank\TimeConversion\bin\Debug\netcoreapp3.1\TimeConversion.pdb
+D:\Code Projects\C# Course\HackerRank\TimeConversion\obj\Debug\netcoreapp3.1\TimeConversion.csproj.AssemblyReference.cache
+D:\Code Projects\C# Course\HackerRank\TimeConversion\obj\Debug\netcoreapp3.1\TimeConversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Projects\C# Course\HackerRank\TimeConversion\obj\Debug\netcoreapp3.1\TimeConversion.AssemblyInfoInputs.cache
+D:\Code Projects\C# Course\HackerRank\TimeConversion\obj\Debug\netcoreapp3.1\TimeConversion.AssemblyInfo.cs
+D:\Code Projects\C# Course\HackerRank\TimeConversion\obj\Debug\netcoreapp3.1\TimeConversion.csproj.CoreCompileInputs.cache
+D:\Code Projects\C# Course\HackerRank\TimeConversion\obj\Debug\netcoreapp3.1\TimeConversion.dll
+D:\Code Projects\C# Course\HackerRank\TimeConversion\obj\Debug\netcoreapp3.1\TimeConversion.pdb
+D:\Code Projects\C# Course\HackerRank\TimeConversion\obj\Debug\netcoreapp3.1\TimeConversion.genruntimeconfig.cache
