@@ -1,0 +1,14 @@
+D:\Code Projects\C# Course\HackerRank\ZigZagSequence\obj\Debug\netcoreapp3.1\ZigZagSequence.csproj.AssemblyReference.cache
+D:\Code Projects\C# Course\HackerRank\ZigZagSequence\obj\Debug\netcoreapp3.1\ZigZagSequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Projects\C# Course\HackerRank\ZigZagSequence\obj\Debug\netcoreapp3.1\ZigZagSequence.AssemblyInfoInputs.cache
+D:\Code Projects\C# Course\HackerRank\ZigZagSequence\obj\Debug\netcoreapp3.1\ZigZagSequence.AssemblyInfo.cs
+D:\Code Projects\C# Course\HackerRank\ZigZagSequence\obj\Debug\netcoreapp3.1\ZigZagSequence.csproj.CoreCompileInputs.cache
+D:\Code Projects\C# Course\HackerRank\ZigZagSequence\bin\Debug\netcoreapp3.1\ZigZagSequence.exe
+D:\Code Projects\C# Course\HackerRank\ZigZagSequence\bin\Debug\netcoreapp3.1\ZigZagSequence.deps.json
+D:\Code Projects\C# Course\HackerRank\ZigZagSequence\bin\Debug\netcoreapp3.1\ZigZagSequence.runtimeconfig.json
+D:\Code Projects\C# Course\HackerRank\ZigZagSequence\bin\Debug\netcoreapp3.1\ZigZagSequence.runtimeconfig.dev.json
+D:\Code Projects\C# Course\HackerRank\ZigZagSequence\bin\Debug\netcoreapp3.1\ZigZagSequence.dll
+D:\Code Projects\C# Course\HackerRank\ZigZagSequence\bin\Debug\netcoreapp3.1\ZigZagSequence.pdb
+D:\Code Projects\C# Course\HackerRank\ZigZagSequence\obj\Debug\netcoreapp3.1\ZigZagSequence.dll
+D:\Code Projects\C# Course\HackerRank\ZigZagSequence\obj\Debug\netcoreapp3.1\ZigZagSequence.pdb
+D:\Code Projects\C# Course\HackerRank\ZigZagSequence\obj\Debug\netcoreapp3.1\ZigZagSequence.genruntimeconfig.cache
