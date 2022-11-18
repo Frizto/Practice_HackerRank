@@ -1,0 +1,15 @@
+D:\Code Projects\C# Course\HackerRank\PalindromeTest\bin\Debug\net6.0\PalindromeTest.exe
+D:\Code Projects\C# Course\HackerRank\PalindromeTest\bin\Debug\net6.0\PalindromeTest.deps.json
+D:\Code Projects\C# Course\HackerRank\PalindromeTest\bin\Debug\net6.0\PalindromeTest.runtimeconfig.json
+D:\Code Projects\C# Course\HackerRank\PalindromeTest\bin\Debug\net6.0\PalindromeTest.dll
+D:\Code Projects\C# Course\HackerRank\PalindromeTest\bin\Debug\net6.0\PalindromeTest.pdb
+D:\Code Projects\C# Course\HackerRank\PalindromeTest\obj\Debug\net6.0\PalindromeTest.csproj.AssemblyReference.cache
+D:\Code Projects\C# Course\HackerRank\PalindromeTest\obj\Debug\net6.0\PalindromeTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Projects\C# Course\HackerRank\PalindromeTest\obj\Debug\net6.0\PalindromeTest.AssemblyInfoInputs.cache
+D:\Code Projects\C# Course\HackerRank\PalindromeTest\obj\Debug\net6.0\PalindromeTest.AssemblyInfo.cs
+D:\Code Projects\C# Course\HackerRank\PalindromeTest\obj\Debug\net6.0\PalindromeTest.csproj.CoreCompileInputs.cache
+D:\Code Projects\C# Course\HackerRank\PalindromeTest\obj\Debug\net6.0\PalindromeTest.dll
+D:\Code Projects\C# Course\HackerRank\PalindromeTest\obj\Debug\net6.0\refint\PalindromeTest.dll
+D:\Code Projects\C# Course\HackerRank\PalindromeTest\obj\Debug\net6.0\PalindromeTest.pdb
+D:\Code Projects\C# Course\HackerRank\PalindromeTest\obj\Debug\net6.0\PalindromeTest.genruntimeconfig.cache
+D:\Code Projects\C# Course\HackerRank\PalindromeTest\obj\Debug\net6.0\ref\PalindromeTest.dll
