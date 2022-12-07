@@ -1,0 +1,15 @@
+D:\Code Projects\C#\HackerRank\AdjacentElementsProduct\bin\Debug\net6.0\AdjacentElementsProduct.exe
+D:\Code Projects\C#\HackerRank\AdjacentElementsProduct\bin\Debug\net6.0\AdjacentElementsProduct.deps.json
+D:\Code Projects\C#\HackerRank\AdjacentElementsProduct\bin\Debug\net6.0\AdjacentElementsProduct.runtimeconfig.json
+D:\Code Projects\C#\HackerRank\AdjacentElementsProduct\bin\Debug\net6.0\AdjacentElementsProduct.dll
+D:\Code Projects\C#\HackerRank\AdjacentElementsProduct\bin\Debug\net6.0\AdjacentElementsProduct.pdb
+D:\Code Projects\C#\HackerRank\AdjacentElementsProduct\obj\Debug\net6.0\AdjacentElementsProduct.csproj.AssemblyReference.cache
+D:\Code Projects\C#\HackerRank\AdjacentElementsProduct\obj\Debug\net6.0\AdjacentElementsProduct.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Projects\C#\HackerRank\AdjacentElementsProduct\obj\Debug\net6.0\AdjacentElementsProduct.AssemblyInfoInputs.cache
+D:\Code Projects\C#\HackerRank\AdjacentElementsProduct\obj\Debug\net6.0\AdjacentElementsProduct.AssemblyInfo.cs
+D:\Code Projects\C#\HackerRank\AdjacentElementsProduct\obj\Debug\net6.0\AdjacentElementsProduct.csproj.CoreCompileInputs.cache
+D:\Code Projects\C#\HackerRank\AdjacentElementsProduct\obj\Debug\net6.0\AdjacentElementsProduct.dll
+D:\Code Projects\C#\HackerRank\AdjacentElementsProduct\obj\Debug\net6.0\refint\AdjacentElementsProduct.dll
+D:\Code Projects\C#\HackerRank\AdjacentElementsProduct\obj\Debug\net6.0\AdjacentElementsProduct.pdb
+D:\Code Projects\C#\HackerRank\AdjacentElementsProduct\obj\Debug\net6.0\AdjacentElementsProduct.genruntimeconfig.cache
+D:\Code Projects\C#\HackerRank\AdjacentElementsProduct\obj\Debug\net6.0\ref\AdjacentElementsProduct.dll
